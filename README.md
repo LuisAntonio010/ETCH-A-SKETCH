@@ -1,2 +1,2 @@
-# ETCH-A-SKETCH
+# etch-a-sketch
 DOM MANIPULATION / ETCH-A-SKETCH
